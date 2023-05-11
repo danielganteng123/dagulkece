@@ -9,5 +9,9 @@
 <body>
     <h1>Hello World!</h1>
     <p>Ini paragraph Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti fugit nesciunt repudiandae, ratione temporibus asperiores modi saepe quae commodi quo magni praesentium. Doloribus libero tenetur, id assumenda sed asperiores quidem?</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
